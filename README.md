@@ -15,7 +15,7 @@
 
 ---
 
-## 🗂 Структура проекта
+## Структура проекта
 
 - [`part1_incident_response/`](part1_incident_response/) — реагирование на инциденты (изоляция, анализ, взаимодействие с командами).
 - [`part2_vulnerability_management/`](part2_vulnerability_management/) — управление уязвимостями (отчёт, план устранения).
