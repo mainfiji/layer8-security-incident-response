@@ -46,8 +46,7 @@ bash
 nft add rule inet filter forward ip saddr 10.10.10.0/24 ip daddr 10.10.10.0/24 drop
 Это предотвратит горизонтальное перемещение.
 
-text
-
+```
 4. Внедрение Zero Trust Network Access (ZTNA)
 Рассмотреть использование прокси-агентов на конечных точках (например, Cloudflare Zero Trust, Zscaler, или OpenZiti). В этом случае доступ к ресурсам предоставляется на основе аутентификации пользователя, а не IP-адреса.
 
